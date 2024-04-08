@@ -1,0 +1,29 @@
+{
+  "update_force": true,
+  "update_force_version_code": 23,
+  "update": {
+    "update_version_code": 23,
+    "update_version_name": "1.4.0_online",
+    "update_time": "2024年4月4号 01:53",
+    "update_title": "更新内容",
+    "update_content": "⦁ 修复注册、番剧崩溃问题\n⦁ 修复条漫、经典加载大图崩溃问题、以及缩放问题\n⦁ 修复垂直翻页实现问题\n⦁ 增加支持32位CPU架构设备\n⦁ 调整部分界面样式\n⦁ 取消了漫画图片加载动画效果、减少了向上滚动导致页面位置总是自动调整\n⦁ 后续的新功能和需求会尽快跟进\n⦁ 由于修复了大图加载崩溃问题，导致漫画精准定位效果不是很好，后续会在1.4.1优化",
+    "update_url": [
+      {
+        "url_name": "蓝奏云 无需密码",
+        "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+      },
+      {
+        "url_name": "蓝奏云 无需密码",
+        "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+      },
+      {
+        "url_name": "蓝奏云 无需密码",
+        "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+      },
+      {
+        "url_name": "蓝奏云 无需密码",
+        "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+      }
+    ]
+  }
+}
