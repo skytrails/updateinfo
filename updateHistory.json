@@ -1,0 +1,279 @@
+ {
+  "updates": [
+    {
+      "update_version_code": 23,
+      "update_version_name": "1.4.0_online",
+      "update_time": "2024年4月4号 01:53",
+      "update_title": "更新内容",
+      "update_content": "⦁ 修复注册、番剧崩溃问题\n⦁ 修复条漫、经典加载大图崩溃问题、以及缩放问题\n⦁ 修复垂直翻页实现问题\n⦁ 增加支持32位CPU架构设备\n⦁ 调整部分界面样式\n⦁ 取消了漫画图片加载动画效果、减少了向上滚动导致页面位置总是自动调整\n⦁ 后续的新功能和需求会尽快跟进\n⦁ 由于修复了大图加载崩溃问题，导致漫画精准定位效果不是很好，后续会在1.4.1优化",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ]
+    },
+    {
+      "update_version_code": 22,
+      "update_version_name": "1.3.9_online",
+      "update_time": "2024年3月17号 22:45",
+      "update_title": "更新内容",
+      "update_content": "⦁ 获取密钥加群: 681109689\n⦁ 增加图床代理（解决无法访问和加载较慢问题）\n⦁ 增加上下左右四个方向自定义翻页\n⦁ 增加公告（主页-顶部按钮）\n⦁ 修复翻页崩溃问题\n⦁ 优化部分界面样式、性能",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ]
+    },
+    {
+      "update_version_code": 21,
+      "update_version_name": "1.3.8_online",
+      "update_time": "2024年3月15号 00:00",
+      "update_title": "更新内容",
+      "update_content": "⦁ 漫画阅读器增加翻页 \n⦁ 修复已知问题 \n⦁ 重构漫画阅读器、解决条漫、经典模式下崩溃问题 \n⦁ 修复已读章节错误问题 \n⦁ 修复漫画阅读器不准确的页数 \n⦁ 修复漫画阅读器定位错误问题 \n⦁ 调整部分界面\n⦁ Tips：漫画阅读器音量键上下键可触发对应功能，后续会更新自定义\n⦁ Tips：App底部四个导航页面的按钮双击可以触发对应功能",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ]
+    },
+    {
+      "update_version_code": 20,
+      "update_version_name": "1.3.7_online",
+      "update_time": "2024年3月14号 00:00",
+      "update_title": "更新内容",
+      "update_content": "⦁ 漫画阅读器增加翻页 \n⦁ 重构漫画阅读器、解决条漫、经典模式下崩溃问题 \n⦁ 修复已读章节错误问题 \n⦁ 修复漫画阅读器不准确的页数 \n⦁ 修复漫画阅读器定位错误问题 \n⦁ 调整部分界面\n⦁ Tips：漫画阅读器音量键上下键可触发对应功能，后续会更新自定义\n⦁ Tips：App底部四个导航页面的按钮双击可以触发对应功能",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ]
+    },
+    {
+      "update_version_code": 18,
+      "update_version_name": "1.3.6_online",
+      "update_time": "2024年3月8号 01:00",
+      "update_title": "更新内容",
+      "update_content": "⦁ 修复崩溃无法分享报错\n⦁ 修复部分崩溃问题\n⦁ 修复API代理配置实现错误效果\n⦁ 当站点都失效时可通过配置密钥正常浏览漫画（设置-代理设置-输入密钥并开启此功能）获取密钥请加群组(群组可通过“关于作者“中找到)",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ]
+    },
+    {
+      "update_version_code": 17,
+      "update_version_name": "1.3.5_online",
+      "update_time": "2024年3月7号 00:00",
+      "update_title": "更新内容",
+      "update_content": "⦁ 增加线路代理、需要密钥访问，当站点失效时可通过此功能正常浏览漫画（设置-代理设置-输入密钥并开启功能）获取密钥请加群组(群组可通过“关于作者“中找到)\n⦁ 1.3.6准备开始处理翻页，如果您有任何问题或者建议、可通过邮件、群组联系！",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ]
+    },
+    {
+      "update_version_code": 16,
+      "update_version_name": "1.3.4_online",
+      "update_time": "2024年3月5号 00:00",
+      "update_title": "更新内容",
+      "update_content": "⦁ 请尽快更新App，将在2024.3.8删除旧仓库，届时旧版本将无法收到更新和通知！\n⦁ 修复漫画阅读器评论界面误触\n⦁ 修复漫画阅读器评论可容纳字符个数\n⦁ 同步Google Play商店引用版本号",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ]
+    },
+    {
+      "update_version_code": 15,
+      "update_version_name": "1.3.3_online",
+      "update_time": "2024年3月4号 凌晨02:30",
+      "update_title": "更新内容",
+      "update_content": "⦁ 迁移仓库地址！请尽快更新APP！\n⦁ 将在2024.3.8删除旧仓库！\n⦁ 1.3.2以前的APP将无法收到更新与通知！\n───\n⦁ 修复了不存在漫画页面导致崩溃的问题\n⦁ 番剧播放增加手动返回、增加旋转屏幕后恢复到已观看的位置\n⦁ 调整部分界面UI样式\n⦁ 修复了一些细节问题\n⦁ 在后续几个版本有空就跟进翻页 - 尽快处理\n───\n⦁ 漫画阅读器\n⦁ 增加评论功能\n⦁ 增加音量键上：开关评论\n⦁ 增加音量键下：锁定界面（防止误触打开阅读器选项页面）",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ]
+    },
+    {
+      "update_version_code": 14,
+      "update_version_name": "1.3.2_online",
+      "update_title": "更新内容",
+      "update_content": "⦁ 新增无限条漫（可切换经典、条漫）（1.3.3更进无限翻页）\n⦁ 新增封面原图显示（清晰度会高一点）\n⦁ 修复漫画加载模糊问题\n⦁ 替换图片加载框架\n⦁ 优化沉浸式体验以及UI界面样式\n⦁ 优化适配所有繁体内容转简体（已完成全部）\n⦁ 修复番剧搜索界面错误的界面主题\n-------\n⦁ 漫画阅读器增加自动定位书签功能（可以预览上次阅读时的位置）\n⦁ 漫画阅读器增加滑块定位指定位置\n⦁ 漫画阅读器增加亮度设置\n⦁ 漫画阅读器增加手动旋转屏幕\n⦁ 漫画阅读器支持调整缩放倍率，支持原图缩小",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2024年2月29号 凌晨02:30"
+    },
+    {
+      "update_version_code": 13,
+      "update_version_name": "1.3.1_online",
+      "update_title": "更新内容",
+      "update_content": "● 新增简繁体转换\n● 新增书架更新前置\n● 新增热度精准显示\n● 优化设置界面",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年12月18号 凌晨01:01"
+    },
+    {
+      "update_version_code": 12,
+      "update_version_name": "1.3.0_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 增加番剧、番剧站点设置（默认只支持1080P）\n◉ 完善专题界面\n◉ 修复一些已知问题、细节优化",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年12月10号 下午19:34"
+    },
+    {
+      "update_version_code": 10,
+      "update_version_name": "1.2.6_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 新增历史记录\n◉ 新增 漫画列表 类别、排序\n◉ 新增 分辨率设置 1500、1200、800\n◉ 修复漫画页阅读时崩溃\n◉ 修复一些已知问题\n◉ 优化性能、Icon、界面、加载效果、动画效果",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年10月4号 下午5:43"
+    },
+    {
+      "update_version_code": 9,
+      "update_version_name": "1.2.5_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 新的App Icon\n◉ 修复已知Bug\n◉ 漫画界面调整",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年9月20号 下午9:30"
+    },
+    {
+      "update_version_code": 8,
+      "update_version_name": "1.2.4_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 新增 书架排序方式\n◉ 新增 漫画页双击实现跳转预览上次位置\n◉ 新增 全局异常捕获界面\n◉ 重构 漫画阅读器\n◉ 重构 主页界面、搜索界面\n◉ 提升 主页性能\n◉ 修复 版本历史记录 数据错乱\n◉ 移除 更新版本强制加载动画\n◉ 需重新安装App 由于重新引入了新的KeyStore\n◉ 微小细节处理 不多概述",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年9月20号 凌晨12:30"
+    },
+    {
+      "update_version_code": 7,
+      "update_version_name": "1.2.3_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 修复漫画页数显示错误问题\n◉ 修复App安装第一次启动崩溃\n◉ 修复权限问题并移除不必要权限\n◉ 优化一些细节",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年7月6号 下午22:15"
+    },
+    {
+      "update_version_code": 6,
+      "update_version_name": "1.2.2_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 新增保存图片至本地相册\n◉ 修复一些错误逻辑\n◉ 修复《相合之物》等一些漫画信息展示不全\n◉ 修复并增加一些细节处理",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年7月4号 凌晨2:30"
+    },
+    {
+      "update_version_code": 5,
+      "update_version_name": "1.2.1_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 新增版本更新历史记录\n◉ 新增屏幕尺寸适配\n◉ 修复漫画卡片动态调整高度\n◉ 修复漫画页 标签 时间显示问题\n◉ 修复内存重启错误逻辑\n◉ 适配（登录、注册、关于作者）夜间模式",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年6月29号 下午22:00"
+    },
+    {
+      "update_version_code": 4,
+      "update_version_name": "1.2.0_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 新增夜间模式（适配黑白主题）\n◉ 重构界面部分UI\n◉ 轻小说暂时移除-后续更新添加\n◉ 修复鸿蒙沉浸式以及Android 8.0 以下沉浸式\n◉ 搜索 相关漫画、轻小说查询不到的问题 例如《相合之物》\n◉ 替换章节 DataStore 框架 为 Room数据库\n◉ 修复内存重启后、及夜间模式切换造成的一些遗留问题\n◉ 重构网络模块（以及动态站点）\n◉ 优化主页、漫画、书架 （提高流畅度以及动画效果）\n◉ 优化部分细节",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年6月20号 凌晨00:43"
+    },
+    {
+      "update_version_code": 3,
+      "update_version_name": "1.1.1_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 优化漫画页缩放功能\n◉ 修复一些已知问题",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年5月25号 凌晨00:00"
+    },
+    {
+      "update_version_code": 2,
+      "update_version_name": "1.1.0_online",
+      "update_title": "更新内容",
+      "update_content": "◉ 新增搜索功能、添加到书架功能\n◉ 新增图片加载进度回馈\n◉ 新增漫画页中的下一章、标签页\n◉ 新增站点、代理设置\n◉ 优化细节、增加动画\n◉ 修复一些已知错误\n◉ 更新APP的ICON，APP的所有ICON都是由作者二次创作\n◉ 由于丢失了Keystore文件，旧版本需要重新卸载后才可安装，之后的更新将不会再出现这种低级错误了！",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年5月13号 凌晨00:00"
+    },
+    {
+      "update_version_code": 1,
+      "update_version_name": "1.0.0_online",
+      "update_title": "更新内容",
+      "update_content": "◉ App正式上线",
+      "update_url": [
+        {
+          "url_name": "蓝奏云 无需密码",
+          "url_link": "https://wwt.lanzoul.com/s/copymangax-release"
+        }
+      ],
+      "update_time": "2023年4月8号 凌晨00:00"
+    }
+  ],
+  "update_force": false,
+  "update_force_version_code": 0
+}
