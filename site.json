@@ -1,0 +1,60 @@
+{
+    "webList  ":[
+        {
+            "name  ":"[无需魔法]站点①",
+            "update_time":"2023年5月2日",
+            "desc":"稳定",
+            "level":1,
+            "magic":false,
+            "site":"aHR0cHM6Ly9hcGkuY29weW1hbmdhLnR2"
+        },
+        {
+            "name  ":"[无需魔法]站点⑤",
+            "update_time":"2024年1月5日",
+            "desc":"稳定",
+            "level":1,
+            "magic":false,
+            "site":"aHR0cHM6Ly9hcGkuY29weW1hbmdhLm9yZw=="
+        },
+        {
+            "name  ":"[无需魔法]站点⑥",
+            "update_time":"2024年1月5日",
+            "desc":"稳定",
+            "level":1,
+            "magic":false,
+            "site":"aHR0cHM6Ly9hcGkuY29weW1hbmdhLmluZm8="
+        },
+        {
+            "name  ":"[无需魔法]站点⑦",
+            "update_time":"2024年1月5日",
+            "desc":"稳定",
+            "level":1,
+            "magic":false,
+            "site":"aHR0cHM6Ly9hcGkuY29weW1hbmdhLm5ldA=="
+        },
+        {
+            "name  ":"[无需魔法]站点④",
+            "update_time":"2024年1月5日",
+            "desc":"稳定",
+            "level":1,
+            "magic":false,
+            "site":"aHR0cHM6Ly93d3cubWFuZ2Fjb3B5LmNvbQ=="
+        },
+        {
+            "name  ":"[需要魔法]站点②",
+            "update_time":"2023年5月2日",
+            "desc":"稳定",
+            "level":0,
+            "magic":true,
+            "site":"aHR0cHM6Ly9hcGkuY29weW1hbmdhLnNpdGU="
+        },
+        {
+            "name  ":"[无需魔法]站点③",
+            "update_time":"2023年8月2日",
+            "desc":"一般",
+            "level":0,
+            "magic":true,
+            "site":"aHR0cHM6Ly9hcGkubWFuZ2Fjb3B5LmNvbQ=="
+        }
+    ]
+}
